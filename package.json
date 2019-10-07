@@ -2,7 +2,7 @@
   "name": "react-lights-out",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://franznean14/github.io/lights-out",
+  "homepage": "https://franznean14.github.io/lights-out",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.6.0",
